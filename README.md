@@ -1,1 +1,1 @@
-"# symfony-calculator" 
+# Calculator
